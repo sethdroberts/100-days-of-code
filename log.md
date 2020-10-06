@@ -1,15 +1,13 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 5, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added tags, removed status, due, next action, and categories. Redesigned the backdrop and show/edit page, and added JS functionality to make new/update functions much cleaner (no separate pages).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** CSS is a pain to figure out, but everything else was pretty straightforward. Integrating AJAX is going to be the next main technical challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+<!-->### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
