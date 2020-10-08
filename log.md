@@ -18,3 +18,9 @@
 **Today's Progress**: Redesigned the dashboard layout to be more user-friendly. Figured out what I wanted on it, and added dummy text while I build tag and task controllers with AJAX.
 
 **Thoughts**: Wasn't any big technical challenge, but it was nice to get a feel for what the dashboard should look like design-wise, and to see it in real life before I code it up.
+
+### Day 4: October 8, 2020
+
+**Today's Progress**: Completed the tagging and search setup, so now I can assign tags to all interests, and easily select by tag if I need to look for specific tags. Weaknesses is that there's no direct delete function and it's a little clumsy to enter new tags. But it's all there if you use it carefully.
+
+**Thoughts**: This was pretty technically challenging to implement, but [this tutorial](https://www.youtube.com/watch?v=oPpigFAlLmE) on adding tags to posts via hashtags helped a lot. Had to learn some [Regex](https://regexr.com/), which was painful, but very rewarding once I figured it out. 
