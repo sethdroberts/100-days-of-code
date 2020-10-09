@@ -24,3 +24,20 @@
 **Today's Progress**: Completed the tagging and search setup, so now I can assign tags to all interests, and easily select by tag if I need to look for specific tags. Weaknesses is that there's no direct delete function and it's a little clumsy to enter new tags. But it's all there if you use it carefully.
 
 **Thoughts**: This was pretty technically challenging to implement, but [this tutorial](https://www.youtube.com/watch?v=oPpigFAlLmE) on adding tags to posts via hashtags helped a lot. Had to learn some [Regex](https://regexr.com/), which was painful, but very rewarding once I figured it out. 
+
+### Day 5: October 9, 2020
+
+**Today's Progress**: Added the Task model, so now you can view upcoming tasks from the dashboard, CRUD tasks from the contact page, and view a list of all tasks in the Task page. Still needs some Ajax and refinement, but core functionality is there. Also added some Bootstrap icons.
+
+**Thoughts**: Building the model/controller side of things was tricky, because each task needs to be connected to an interest and built on the interest's page. But once that was done, the view setup was complicated, but didn't require any new significant technical expertise.
+
+
+
+
+
+
+
+
+
+
+
