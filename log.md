@@ -38,7 +38,11 @@
 
 **Thoughts**: Finishing the Task model was pretty fun. But pushing to the cloud and fixing the Heroku DB issue was hellish. I need to start writing tests and create a separate test Heroku environment so I'm not always deploying straight to the cloud, so I can avoid these issues. Also, be very careful when adding new models or messing with the database in any way. In the future, if I make any significant DB changes, I should release a whole new version of the software, so it doesn't mess with the existing one.
 
+### Day 7: October 12, 2020
 
+**Today's Progress**: Moved dev environment from Cloud9 back to native Mac OS. Also set up Heroku Pipeline, so whenever I've finished a new segment, I can just push it to GitHub on master, and it will auto-deploy to staging, where I can test it, make sure it works, and then promote it to the production environment.
+
+**Thoughts**: Heroku Pipeline is incredibly cool. Wish I could do continuous integration testing for free, but it's really unnecessary because I'm the only one pushing code, so I can just write good tests and test code before I push it to GitHub.
 
 
 
