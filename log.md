@@ -32,7 +32,11 @@
 **Thoughts**: Building the model/controller side of things was tricky, because each task needs to be connected to an interest and built on the interest's page. But once that was done, the view setup was complicated, but didn't require any new significant technical expertise.
 
 
+### Day 6: October 11, 2020
 
+**Today's Progress**: Completed the Task model (added "task completed" status, ability to delete tasks, FontAwesome clickable icons), and fixed some problems with the database and creating new interests that were causing problems. Shipped version 2 of the app to the cloud.
+
+**Thoughts**: Finishing the Task model was pretty fun. But pushing to the cloud and fixing the Heroku DB issue was hellish. I need to start writing tests and create a separate test Heroku environment so I'm not always deploying straight to the cloud, so I can avoid these issues. Also, be very careful when adding new models or messing with the database in any way. In the future, if I make any significant DB changes, I should release a whole new version of the software, so it doesn't mess with the existing one.
 
 
 
