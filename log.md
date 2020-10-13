@@ -44,6 +44,11 @@
 
 **Thoughts**: Heroku Pipeline is incredibly cool. Wish I could do continuous integration testing for free, but it's really unnecessary because I'm the only one pushing code, so I can just write good tests and test code before I push it to GitHub.
 
+### Day 8: October 13, 2020
+
+**Today's Progress**: Revised the navbar to include a dropdown menu + user gravatars, moved main nav elements to a set of tabs inside the application, and fixed the bug with contact info displaying incorrectly.
+
+**Thoughts**: Still pretty enamoured with Heroku Pipeline. It saved me a lot of stress having an identical production environment I can push to. Wrangling HTML/CSS can be really frustrating, and I'm unsure if I prefer the new tabbed design, but we'll see how it goes.
 
 
 
