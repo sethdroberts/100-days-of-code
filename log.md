@@ -50,7 +50,8 @@
 
 **Thoughts**: Still pretty enamoured with Heroku Pipeline. It saved me a lot of stress having an identical production environment I can push to. Wrangling HTML/CSS can be really frustrating, and I'm unsure if I prefer the new tabbed design, but we'll see how it goes.
 
+### Day 9: October 14, 2020
 
+**Today's Progress**: Moved tag filtering to a dedicated tab to clean up the Interest interface. Modified the Tag setup, so you can create tags individually instead of in a big tagger. Built delete and "remove from interest" operations, so you can quickly edit and delete tags from the main page and within the app.
 
-
-
+**Thoughts**: Honestly, I am quite proud of how this part turned out. Was tricky to sort some of the pieces out, but it all came together quite well, and now the tags are much simpler to manipulate and work very well. Pretty happy with the outcome.
