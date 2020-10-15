@@ -55,3 +55,9 @@
 **Today's Progress**: Moved tag filtering to a dedicated tab to clean up the Interest interface. Modified the Tag setup, so you can create tags individually instead of in a big tagger. Built delete and "remove from interest" operations, so you can quickly edit and delete tags from the main page and within the app.
 
 **Thoughts**: Honestly, I am quite proud of how this part turned out. Was tricky to sort some of the pieces out, but it all came together quite well, and now the tags are much simpler to manipulate and work very well. Pretty happy with the outcome.
+
+### Day 10: October 15, 2020
+
+**Today's Progress**: Removed tabbed navigation and replaced it with a sidebar. Does the same thing, but a lot more aesthetically pleasing. Looks more like an actual app. Also redesigned the contact show page after the Highrise model and removed all modals in favour of drop-downs and collapses. Now it looks a lot cleaner and simpler (less crowded). And finally, I moved the "Add Interest" button to the navbar. Looks much better and is universally available there. At some point I'll try to move tasks there, but it means messing with the database, so that's tricky.
+
+**Thoughts**: Quite happy with how this turned out. Even though it's all aesthetic changes, it makes a big difference in the professional look and feel of the app. Modifying the navbar was a big pain, but definitely worth it. Next up with minor changes would be the search feature, adding JS validation to the forms, and rebuilding the login/signup/edit user pages.
