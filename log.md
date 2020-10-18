@@ -61,3 +61,9 @@
 **Today's Progress**: Removed tabbed navigation and replaced it with a sidebar. Does the same thing, but a lot more aesthetically pleasing. Looks more like an actual app. Also redesigned the contact show page after the Highrise model and removed all modals in favour of drop-downs and collapses. Now it looks a lot cleaner and simpler (less crowded). And finally, I moved the "Add Interest" button to the navbar. Looks much better and is universally available there. At some point I'll try to move tasks there, but it means messing with the database, so that's tricky.
 
 **Thoughts**: Quite happy with how this turned out. Even though it's all aesthetic changes, it makes a big difference in the professional look and feel of the app. Modifying the navbar was a big pain, but definitely worth it. Next up with minor changes would be the search feature, adding JS validation to the forms, and rebuilding the login/signup/edit user pages.
+
+### Day 11: October 18, 2020
+
+**Today's Progress**: Added ability to edit tasks after creating. Tried to do it on the page but had to move it to a separate page. Need to think harder about how to make it work, because it's a bit of an ugly work-around.
+
+**Thoughts**: Did this pretty fast. Not too happy, and didn't get to test it all out, but I'm happy I was able to at least ship an initial version.
