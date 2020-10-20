@@ -67,3 +67,9 @@
 **Today's Progress**: Added ability to edit tasks after creating. Tried to do it on the page but had to move it to a separate page. Need to think harder about how to make it work, because it's a bit of an ugly work-around.
 
 **Thoughts**: Did this pretty fast. Not too happy, and didn't get to test it all out, but I'm happy I was able to at least ship an initial version.
+
+### Day 12: October 20, 2020
+
+**Today's Progress**: Added ability to reactivate tasks after completing, moved all completed tasks to a new "Interest Activity" page under each interests, cleaned up and simplified the tasks index page (ability to display by interest or due date), and moved tasks display to center of page instead of the side. Make tasks and updates central to the page.
+
+**Thoughts**: Not completely happy with the new tasks index page, but quite happy that I was able to figure out how to reactivate tasks, and also that I've moved a bunch of task display stuff to the tasks partial, cleaning up my code significantly (especially the index page).
