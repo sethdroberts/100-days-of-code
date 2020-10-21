@@ -73,3 +73,9 @@
 **Today's Progress**: Added ability to reactivate tasks after completing, moved all completed tasks to a new "Interest Activity" page under each interests, cleaned up and simplified the tasks index page (ability to display by interest or due date), and moved tasks display to center of page instead of the side. Make tasks and updates central to the page.
 
 **Thoughts**: Not completely happy with the new tasks index page, but quite happy that I was able to figure out how to reactivate tasks, and also that I've moved a bunch of task display stuff to the tasks partial, cleaning up my code significantly (especially the index page).
+
+### Day 13: October 21, 2020
+
+**Today's Progress**: Added a show page, so I can now view all tasks directly, and then edit them if I so choose. It's more of a minor detail, but it looks pretty good, and now I can add notes to each task. Also added boxes to the Tasks index and a button for switching views so it looks neater and cleaner.
+
+**Thoughts**: Like the tasks displays a lot better than the initial setup I had. Not perfectly satisfied with things, and I should take some deep time to think about exactly how I want it all to flow, but it works and looks pretty solid right now. CSS is always a pain, but I like the new setup.
