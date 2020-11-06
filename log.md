@@ -79,3 +79,9 @@
 **Today's Progress**: Added a show page, so I can now view all tasks directly, and then edit them if I so choose. It's more of a minor detail, but it looks pretty good, and now I can add notes to each task. Also added boxes to the Tasks index and a button for switching views so it looks neater and cleaner.
 
 **Thoughts**: Like the tasks displays a lot better than the initial setup I had. Not perfectly satisfied with things, and I should take some deep time to think about exactly how I want it all to flow, but it works and looks pretty solid right now. CSS is always a pain, but I like the new setup.
+
+### Day 14: November 6, 2020
+
+**Today's Progress**: Added birthday and email address fields to the interests. They now display on the main interest show page and can be edited and added when you C/E an interest.
+
+**Thoughts**: I took a 16-day (~2wk) break to focus on some other areas of my life, and I want to continue building Interest Bucket, but at a slower, piece-by-piece pace, now that it's not a primary focus on my life anymore.
